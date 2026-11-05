@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>鲁趣寻踪 · 第六版 — 旅行灵感智能助手</title><link rel="stylesheet" href="/static/style.css"></head>
+<body>
+<svg class="icon-library" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs>
+    <symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m16 8-3 5-5 3 3-5 5-3Z"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+    <symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="m12 3 2.5 6.5L21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5L12 3ZM20 2v4m-2-2h4"/></symbol>
+    <symbol id="i-camera" viewBox="0 0 24 24"><path d="M3 7h4l2-3h6l2 3h4v14H3V7Z"/><circle cx="12" cy="13" r="4"/></symbol>
+    <symbol id="i-wave" viewBox="0 0 24 24"><path d="M2 9q3-4 6 0t6 0 6 0M2 15q3-4 6 0t6 0 6 0M2 21q3-4 6 0t6 0 6 0"/></symbol>
+    <symbol id="i-leaf" viewBox="0 0 24 24"><path d="M20 3C10 2 3 7 5 14s14 6 15-11ZM3 21 15 9"/></symbol>
+    <symbol id="i-save" viewBox="0 0 24 24"><path d="M12 3v12m-4-4 4 4 4-4M4 15v6h16v-6"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></symbol>
+  
+<symbol id="i-landscape" viewBox="0 0 24 24"><path d="M2 15 8 5l5 8 3-5 6 9M2 20c4-3 8 3 12 0s6 0 8-1"/><circle cx="18" cy="4" r="2"/></symbol>
+<symbol id="i-fan" viewBox="0 0 24 24"><path d="M4 18 2 8q10-9 20 0l-2 10-8-4-8 4Zm8-4V5m0 9L5 6m7 8 7-8m-7 8v8M4 18q8-4 16 0"/></symbol>
+<symbol id="i-pavilion" viewBox="0 0 24 24"><path d="m2 10 10-6 10 6H2ZM5 10v9m14-9v9M3 20h18M8 10v9m8-9v9M12 2v2"/></symbol>
+</defs></svg>
+<a class="skip-link" href="#description">跳到偏好输入</a>
+<aside class="sidebar" aria-label="工作区导航">
+ <div class="sidebar-brand"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 80 80" fill="none"><defs><clipPath id="v6-logo-window"><circle cx="40" cy="40" r="32"/></clipPath></defs><circle cx="40" cy="40" r="37" fill="#fbf4df" stroke="#bd9c55" stroke-width="1.3"/><g clip-path="url(#v6-logo-window)"><circle cx="40" cy="40" r="32" fill="#106b89"/>
+<path d="M9 49c9-3 13-15 20-18 6-3 8-18 15-17 5 0 6 14 10 20 4 5 10 5 17 13v19H9Z" fill="#55d4a8"/>
+<path d="M11 57c13-3 15-12 23-15 6-2 7-12 12-11 5 1 5 13 13 15 5 1 10 3 12 7v13H11Z" fill="#06a58e"/>
+<path d="M43 42c-13 7 1 10 7 14 8 6-9 6-19 11" stroke="#fbf4df" stroke-width="4" stroke-linecap="round"/>
+<path d="M44 19c-1 10-6 14-8 20M21 53c4-1 8-4 11-7" stroke="#ffd369" stroke-width="1.4" stroke-linecap="round"/>
+<circle cx="60" cy="22" r="4" fill="#ff7651"/><path d="M18 62h8m32-2h5" stroke="#fbf4df" stroke-width="1.1" stroke-linecap="round"/>
+</g></svg></span><div><h1>鲁趣寻踪</h1><span>山海之间，找到你的趣</span></div></div>
+ <button type="button" class="new-exploration sidebar-new"><span>＋</span> 开始新探索 <svg class="icon" aria-hidden="true"><use href="#i-spark"/></svg></button>
+ <p class="nav-caption">旅行灵感工作台</p>
+ <nav class="workspace-nav" aria-label="功能导航">
+  <button type="button" class="nav-item active" data-goto="input-panel"><svg class="icon" aria-hidden="true"><use href="#i-spark"/></svg><span>旅行助手</span><small>开始</small></button>
+  <button type="button" class="nav-item" data-goto="profile-area" disabled><svg class="icon" aria-hidden="true"><use href="#i-user"/></svg><span>我的旅行画像</span></button>
+  <button type="button" class="nav-item" data-goto="result-area" disabled><svg class="icon" aria-hidden="true"><use href="#i-compass"/></svg><span>景点与文案</span></button>
+ </nav>
+ <div class="sidebar-note"><span>有依据，也有灵感</span><p>从你的真实偏好出发，<br>不替你定义性格。</p></div>
+ <div class="sidebar-signature"><span class="signature-rule"></span><p>山海有趣<br>因你而选</p><span>偏好由你确认，灵感与你共创。</span></div>
+ <div class="sidebar-footer"><span class="tiny-seal">鲁</span><span>山东文旅 · 参赛原型</span></div>
+</aside>
+<div class="app-shell">
+ <header class="site-header">
+  <div class="header-title"><svg class="icon" aria-hidden="true"><use href="#i-landscape"/></svg><strong>旅行灵感助手</strong><span class="edition">第六版</span></div>
+  <div class="header-actions"><span id="mode-status" class="mode-status" role="status">正在连接本地服务</span><button type="button" class="new-exploration header-new" title="清空当前探索并开始新的描述">＋ 新探索</button></div>
+ </header>
+ <nav class="mobile-nav" aria-label="手机功能导航"><button type="button" data-goto="input-panel" class="active">旅行助手</button><button type="button" data-goto="profile-area" disabled>我的画像</button><button type="button" data-goto="result-area" disabled>景点与文案</button></nav>
+ <div class="workbench">
+  <main id="workspace" class="workspace">
+   <div class="welcome-heading"><span class="welcome-kicker"><span class="culture-seal" aria-hidden="true">鲁</span> 齐鲁山海，因你而行 <span class="kicker-line" aria-hidden="true"></span></span><h2>想去哪儿？<span>从聊聊你开始。</span></h2><p>告诉我你喜欢的风景、节奏，以及不想做的事。</p></div>
+   <section class="assistant-intro" aria-label="助手说明"><span class="agent-avatar" aria-hidden="true"><svg viewBox="0 0 80 80" fill="none"><defs><clipPath id="v6-avatar-window"><circle cx="40" cy="40" r="32"/></clipPath></defs><circle cx="40" cy="40" r="37" fill="#fbf4df" stroke="#bd9c55" stroke-width="1.3"/><g clip-path="url(#v6-avatar-window)"><circle cx="40" cy="40" r="32" fill="#106b89"/>
+<path d="M9 49c9-3 13-15 20-18 6-3 8-18 15-17 5 0 6 14 10 20 4 5 10 5 17 13v19H9Z" fill="#55d4a8"/>
+<path d="M11 57c13-3 15-12 23-15 6-2 7-12 12-11 5 1 5 13 13 15 5 1 10 3 12 7v13H11Z" fill="#06a58e"/>
+<path d="M43 42c-13 7 1 10 7 14 8 6-9 6-19 11" stroke="#fbf4df" stroke-width="4" stroke-linecap="round"/>
+<path d="M44 19c-1 10-6 14-8 20M21 53c4-1 8-4 11-7" stroke="#ffd369" stroke-width="1.4" stroke-linecap="round"/>
+<circle cx="60" cy="22" r="4" fill="#ff7651"/><path d="M18 62h8m32-2h5" stroke="#fbf4df" stroke-width="1.1" stroke-linecap="round"/>
+</g></svg></span><div><strong>你好，我是鲁趣。</strong><p>我会先整理你的旅行偏好，等你确认后，再找景点、写文案。没说到的条件，我会留给你补充。</p></div></section>
+   <section id="input-panel" class="input-panel" aria-labelledby="composer-title">
+    <svg class="composer-cloud" viewBox="0 0 130 36" fill="none" aria-hidden="true"><path d="M1 30h91c20 0 20-20 7-20-12 0-12 14-2 14h22c16 0 14-20 2-20-13 0-12 13-4 13M12 20h54c15 0 15-15 4-15-10 0-10 10-2 10M24 29h50" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"/></svg><div class="composer-heading"><h3 id="composer-title"><svg class="icon" aria-hidden="true"><use href="#i-landscape"/></svg>这一程，你想怎么走？</h3><span>自然描述就好</span></div>
+    <label class="sr-only" for="description">旅行偏好描述</label>
+    <textarea id="description" maxlength="2000" rows="4" placeholder="比如：我喜欢自己慢慢逛，爱拍老建筑，不想爬山。想找一个能放松、又有点文化氛围的地方。"></textarea>
+    <div class="composer-toolbar"><label class="city-picker"><svg class="icon" aria-hidden="true"><use href="#i-pin"/></svg><span class="sr-only">目的地城市（选填）</span><select id="city" title="城市（选填）"><option value="">不限城市</option></select></label><button id="profile-btn" type="button">发送，理解我的偏好 <span aria-hidden="true">↑</span></button></div>
+    <div class="composer-foot"><button id="direct-btn" type="button" class="ghost">跳过画像，按关键词匹配</button><span class="keyboard-hint">Ctrl + Enter 发送</span></div>
+    <svg class="composer-shore" viewBox="0 0 600 25" fill="none" preserveAspectRatio="none" aria-hidden="true"><path d="M0 16c100-23 133 21 231 1 88-18 109 11 186-1 82-13 129 6 183-2v11H0Z" fill="#d7eee5"/><path d="M0 22c94-17 151 11 244-1 85-11 124 4 204-3 58-5 112 2 152 2" stroke="#83c2b1" stroke-width="1"/></svg><div id="tips" class="tips" role="status" aria-live="polite"></div>
+   </section>
+   <section class="starter-section" aria-labelledby="starter-title"><div class="starter-heading"><span id="starter-title">不知道怎么说？试试这些</span><span>点击即可填入 ↙</span></div><div class="scenario-list">
+    <button type="button" class="scenario" data-description="我喜欢自己慢慢逛，爱拍老建筑，不想爬山。"><svg class="icon" aria-hidden="true"><use href="#i-fan"/></svg><svg class="scenario-scene" viewBox="0 0 160 75" fill="none" aria-hidden="true"><path d="M0 64c23-5 26-33 40-29 13 4 16-29 29-31 13-1 15 39 28 32 12-7 18-22 28-13 11 10 17 32 35 34v18H0Z" fill="currentColor" opacity=".15"/><path d="M70 6c-7 14-8 27-17 38m19-21c-1 13 4 19 4 30M2 67c29-8 48 5 79-2s48-7 77-1" stroke="currentColor" stroke-width="1.2"/></svg><span>一个人，慢慢逛<small>建筑 · 摄影 · 松弛</small></span><b aria-hidden="true">↗</b></button>
+    <button type="button" class="scenario" data-description="想和对象去海边，喜欢看日落、拍照和吃美食，行程不想太赶。"><svg class="icon" aria-hidden="true"><use href="#i-wave"/></svg><svg class="scenario-scene" viewBox="0 0 160 75" fill="none" aria-hidden="true"><circle cx="125" cy="24" r="13" fill="currentColor" opacity=".3"/><path d="M2 46c25-13 38 14 64 0s39 14 65 0 29 1 29 1M1 59c25-13 38 14 64 0s39 14 65 0 29 1 29 1M1 71c25-13 38 14 64 0s39 14 65 0 29 1 29 1" stroke="currentColor" stroke-width="1.2"/></svg><span>和喜欢的人看海<small>日落 · 美食 · 海岸</small></span><b aria-hidden="true">↗</b></button>
+    <button type="button" class="scenario" data-description="想带孩子一起旅行，对历史文化和博物馆感兴趣，希望行程轻松，不爬山。"><svg class="icon" aria-hidden="true"><use href="#i-pavilion"/></svg><svg class="scenario-scene" viewBox="0 0 160 75" fill="none" aria-hidden="true"><path d="M8 69c28-9 29-47 45-42 15 5 15 22 32 18 24-6 32-31 47-24 11 5 14 30 28 34v20H8Z" fill="currentColor" opacity=".15"/><g stroke="currentColor" stroke-width="1.2"><path d="m87 35 23-12 23 12H87Zm7 0v24m32-24v24M90 61h40m-30-26v24m20-24v24M110 18v5M3 70c29-8 49 4 77-1s50-6 80-1"/></g></svg><span>带孩子认识山东<small>历史 · 博物馆 · 亲子</small></span><b aria-hidden="true">↗</b></button>
+   </div><div class="keyword-row"><span>加一点兴趣</span><div class="chips" id="chips"></div></div></section>
+   <div id="user-message" class="user-message hidden"><span>你的描述</span><p id="sent-description"></p></div>
+       <section id="profile-area" class="panel profile-panel hidden">
+      <div class="profile-head">
+        <div><p class="section-kicker">鲁趣 · 偏好理解</p><h2>先核对一下，我理解得对吗？</h2></div>
+        <span id="profile-mock-note" class="mock-note hidden">当前为演示模式，以下为示例画像</span>
+      </div>
+      <p class="hint">以下偏好由大模型根据你的描述提取；<b>没有提到的维度标记为“未说明”</b>，请检查提取是否准确。你可以修改或删除任一维度，确认后再匹配景点。</p>
+      <div id="profile-list" class="profile-list"></div>
+      <div class="profile-actions">
+        <button id="confirm-btn" type="button">确认偏好，开始匹配景点</button>
+      </div>
+    </section>
+
+
+       <section id="match-note" class="match-note hidden">
+      📋 本版为<strong>画像驱动匹配</strong>：内容兴趣/环境按景点标签证据匹配；体力、节奏、同行仅在景点资料有明确依据时参与比较，资料未说明的属性标记为“尚不能确认”，不推断、不编造；同行偏好仅在资料有相关依据时参与。
+    </section>
+
+    <section id="conflict-box" class="conflict-box hidden"></section>
+
+
+       <section id="result-area" class="result-area hidden">
+      <div class="result-head">
+        <div><p class="section-kicker">鲁趣 · 推荐与创作</p><h2>为你匹配的景点</h2></div>
+        <span id="result-summary" class="summary"></span>
+      </div>
+      <div id="cards" class="cards"></div>
+    </section>
+
+
+       <div id="export-actions" class="export-bar hidden">
+      <div class="export-intro"><svg class="icon"><use href="#i-save"/></svg><div><strong>把这次灵感带走</strong><p>保存初稿、你的修改与匹配依据。刷新前记得导出。</p></div></div>
+      <div class="copy-actions"><button id="export-txt" type="button" class="ghost">导出阅读版 TXT</button><button id="export-json" type="button" class="ghost">导出完整记录 JSON</button></div>
+    </div>
+
+       <section id="config-tip" class="config-tip hidden">
+      <p>⚠️ 大模型尚未配置：请复制项目里的 <code>.env.example</code> 为 <code>.env</code>，填写 <code>LLM_API_KEY</code> 后重启服务，即可生成真实传播文案。</p>
+      <p class="sub">当前处于演示模式时，画像与文案为本地示例数据，仅用于预览界面。</p>
+    </section>
+
+   <footer class="workspace-footer"><span class="footer-water" aria-hidden="true">﹏ ﹏ ﹏</span>画像由你确认 · 推荐有据可查 · 文案由你定稿<br><span>资料未知项需进一步核实；生成文案经人工审阅后使用。</span></footer>
+  </main>
+  <aside class="context-panel" aria-label="本次探索状态">
+   <section class="session-panel"><div class="context-heading"><h2>本次探索</h2><span class="live-dot"></span></div><ol class="session-steps"><li data-stage="describe" class="current"><span>1</span><div><strong>说说旅行偏好</strong><small>风景、节奏与限制</small></div></li><li data-stage="profile"><span>2</span><div><strong>确认你的画像</strong><small>可修改，不替你做决定</small></div></li><li data-stage="results"><span>3</span><div><strong>发现景点与文案</strong><small>查看依据，编辑导出</small></div></li></ol><p id="session-status" class="session-status" role="status">等你说说，这次想怎样旅行。</p></section>
+   <section class="preference-panel"><div class="context-heading"><h2>偏好速览</h2><svg class="icon" aria-hidden="true"><use href="#i-user"/></svg></div><div id="preference-preview"><p class="empty-preferences">你的描述会变成一份<br>可以修改的旅行偏好画像。</p><div class="empty-tags"><span>喜欢什么</span><span>想怎么玩</span><span>不做什么</span></div></div></section>
+   <section id="knowledge-panel" class="knowledge-panel"><div class="knowledge-art"><svg class="culture-landscape" viewBox="580 40 820 620" fill="none" aria-hidden="true" preserveAspectRatio="xMidYMin slice">
+<defs>
+ <linearGradient id="v6-atlas-sky" x2="1" y2=".8"><stop stop-color="#e6f2f2"/><stop offset=".58" stop-color="#e5f1d0"/><stop offset="1" stop-color="#ffdf9d"/></linearGradient>
+ <linearGradient id="v6-atlas-water" x2=".3" y2="1"><stop stop-color="#8bd7cd"/><stop offset="1" stop-color="#379baf"/></linearGradient>
+ <linearGradient id="v6-atlas-mountain" x1=".3" y1="0" x2=".7" y2="1"><stop stop-color="#159e91"/><stop offset=".56" stop-color="#078a80"/><stop offset="1" stop-color="#075966"/></linearGradient>
+ <linearGradient id="v6-atlas-mist" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f5f4df" stop-opacity="0"/><stop offset=".6" stop-color="#f7f2df" stop-opacity=".8"/><stop offset="1" stop-color="#e6ecd5" stop-opacity="0"/></linearGradient>
+ <linearGradient id="v6-atlas-left" x2="1" y2="0"><stop offset=".12" stop-color="#fcf7ea"/><stop offset=".32" stop-color="#fcf7ea" stop-opacity=".97"/><stop offset=".49" stop-color="#fcf7ea" stop-opacity=".55"/><stop offset=".65" stop-color="#fcf7ea" stop-opacity="0"/></linearGradient>
+ <pattern id="v6-atlas-silk" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 1h6M1 0v6" stroke="#636c4f" stroke-opacity=".05" stroke-width=".45"/></pattern>
+</defs>
+<rect width="1400" height="710" fill="url(#v6-atlas-sky)"/>
+<circle cx="1164" cy="177" r="67" fill="#ffc84a" opacity=".95"/><circle cx="1164" cy="177" r="95" stroke="#f4b147" stroke-opacity=".3"/>
+<path d="M440 381c46-19 59-63 92-64 33 0 45 37 72 18 30-21 32-75 57-75 21 0 38 60 65 47 28-14 43-86 70-91 30-6 41 67 63 61 22-6 42-48 61-33 25 18 32 84 62 82 20-2 41-45 71-32 28 11 52 54 81 43 20-8 32-36 56-31 23 4 35 40 58 31 33-14 46-43 71-35 35 11 43 44 71 41V477H440Z" fill="#89c9ac"/>
+<path d="M575 409c29-26 49-23 63-52 17-34 26-82 47-74 15 6 25 36 42 26 24-15 44-102 67-109 21-7 32 80 49 69 32-22 57-158 90-170 20-7 31 80 46 93 15 12 22-8 38 8 18 18 22 71 37 74 18 3 33-51 52-44 25 8 32 87 60 94 28 7 47-23 66-10 16 12 21 49 43 52 25 4 49-21 77-6v121H575Z" fill="url(#v6-atlas-mountain)"/>
+<path d="M933 99c-12 18-22 61-28 83-10 30-18 55-36 82-12 17-12 43-28 64-10 13-12 34-26 46 15-4 27-16 37-33 12-20 16-43 30-61 19-25 17-56 36-82 14-20 20-65 15-99Z" fill="#c5dd70"/>
+<path d="M794 200c-19 25-25 73-45 110-15 27-8 45-33 73 28-11 30-31 41-47 14-22 12-41 24-64 10-17 14-51 13-72ZM1106 230c-13 17-15 51-33 71 16 0 26-15 30-32 4-12 6-27 3-39Z" fill="#72c8a3"/>
+<g stroke="#f5d98e" stroke-width="1.7" opacity=".7" stroke-linecap="round"><path d="M936 103c-18 38-8 67-37 105-24 33-13 68-47 112M948 112c9 36-1 58 15 86 10 17 1 48 8 67"/><path d="M1028 206c-9 32-34 51-31 82 2 34-24 57-32 76M1042 212c17 31 6 63 27 89M1112 232c-12 26-17 47-13 69"/><path d="M814 234c-12 33-4 47-28 73-14 15-9 30-29 50M828 237c3 30-6 43 3 66M715 322c-10 18-4 41-22 54"/><path d="M1124 325c17 19 9 39 24 58M1208 337c-12 16-12 39-28 54M977 319c-13 26-10 36-29 52"/><path d="M889 279c-5 18-23 32-20 48M922 343c-1 12-9 20-14 31M1014 300c-9 21-6 37-20 49"/></g>
+<g stroke="#145c5b" stroke-width="1.5" stroke-linecap="round" opacity=".5"><path d="M949 144c-2 23 10 33 8 49m-54 49c-10 13-8 30-18 42m148-20c-8 8-12 17-13 29m-207-8c-3 12-11 22-11 32m287-42c-3 18 5 31 9 37m-172-34c-7 11-6 25-15 37"/></g>
+<path d="M600 361c79-12 111-1 165-14 71-18 97-5 157 2 77 10 97-14 159-17 71-2 115 34 220 17 53-9 77-3 99 2v117H600Z" fill="url(#v6-atlas-mist)"/>
+<path d="M0 433c222-16 363 29 523 0 130-23 204-29 321-11 139 22 184-7 302-14 110-7 182 9 254 3v299H0Z" fill="url(#v6-atlas-water)"/>
+<path d="M597 435c82-45 118-38 171-33 76 7 96-26 148-29 57-3 71 35 114 37 47 2 82-14 124 2 34 13 43 24 64 21-89 22-152 9-218 20-80 14-119-4-189-1-91 3-131 21-214-17Z" fill="#187e79"/>
+<path d="M613 435c80-33 124-25 164-20 51 6 69-17 107-21 35-4 52 17 83 19-83 2-113 30-171 17-67-13-96 9-183 5Z" fill="#b5d35d"/>
+<path d="M1024 448c-79-23-126 7-209 13-99 8-148-11-231 16 113-12 165 2 247-3 83-5 113-26 193-26Z" fill="#f3edd8" opacity=".8"/>
+<g stroke="#f8f2da" stroke-width="1.4" opacity=".8" stroke-linecap="round"><path d="M270 462q51.0 -5 88.4 0t81.6 0"/><path d="M514 489q58.8 -5 101.92 0t94.08 0"/><path d="M709 450q55.199999999999996 -5 95.68 0t88.32 0"/><path d="M875 482q75.0 -5 130.0 0t120.0 0"/><path d="M425 530q72.89999999999999 -5 126.36 0t116.64 0"/><path d="M730 552q83.39999999999999 -5 144.56 0t133.44 0"/><path d="M978 527q64.8 -5 112.32000000000001 0t103.67999999999999 0"/><path d="M182 569q44.1 -5 76.44 0t70.56 0"/><path d="M1084 585q55.5 -5 96.2 0t88.8 0"/><path d="M628 603q63.0 -5 109.2 0t100.8 0"/><path d="M310 625q54.0 -5 93.60000000000001 0t86.39999999999999 0"/></g>
+<path d="M1070 710c32-58 13-76 66-106 51-29 48-77 98-73 47 5 46 35 85 32 36-3 40-27 81-17v164Z" fill="#154b60"/>
+<path d="M1163 710c-20-38 17-51 28-73 14-26 6-54 44-88" stroke="#b9c88a" stroke-width="2"/>
+<g stroke="#254f45" stroke-width="5" stroke-linecap="round"><path d="M1287 585c-18-64 18-102-1-147m-2 45-37-23m42 48 39-24m-43-39 28-27"/></g>
+<g fill="#216b61"><path d="M1215 463c17-19 25-22 40-14 8-13 20-11 27 2 7 11-2 14-15 12Z"/><path d="M1261 438c12-16 22-22 31-12 9-13 20-10 27 1 6 10-1 13-14 13Z"/><path d="M1307 485c16-21 29-23 38-13 12-9 24-6 29 6 5 10-9 13-21 12Z"/></g>
+<g transform="translate(1000 381)" stroke="#e9d496" stroke-width="2" fill="#235c55"><path d="M-23 5h46M-17 4v-22h34V4M-27-19l27-13 27 13h-54Z"/><path d="M-18-19q18 4 36 0M-6-15v18m12-18v18" stroke-width="1"/></g>
+<g transform="translate(933 528)"><path d="M-31 0q30 12 62 0l-9 11h-43Z" fill="#dd704a"/><path d="M-2 0v-24m-1 4L8-4" stroke="#685c43" stroke-width="1.6"/><path d="M-1-23 13-5H0Z" fill="#f9edd0"/></g>
+<g stroke="#5e7961" stroke-width="1.4" stroke-linecap="round"><path d="m1116 92 8-3 8 3m15 7 6-2 6 2"/></g>
+<rect width="1400" height="710" fill="url(#v6-atlas-silk)"/>
+
+
+</svg><span class="art-caption">山水之间</span><span class="art-seal" aria-hidden="true">鲁</span></div><div class="knowledge-content"><span>齐鲁风物志 · 景点资料</span><strong id="data-count">正在加载景点</strong><p id="city-count">正在整理城市</p><div class="knowledge-rule"><svg class="icon" aria-hidden="true"><use href="#i-check"/></svg> 按资料匹配，未知如实标注</div></div></section>
+   <p class="context-disclaimer">景点信息来自整理的素材表。<br>来源与表格核验日期见推荐卡片；素材授权以实际凭证为准。</p>
+  </aside>
+ </div>
+</div>
+<script src="/static/matcher.js"></script><script src="/static/records.js"></script><script src="/static/app.js"></script><script src="/static/workspace.js"></script>
+</body></html>

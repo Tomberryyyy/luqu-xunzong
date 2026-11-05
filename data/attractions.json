@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "SD001",
+    "name": "泰山",
+    "city": "泰安",
+    "tags": [
+      "世界双遗产",
+      "五岳之首",
+      "日出云海",
+      "徒步登山",
+      "历史文化"
+    ],
+    "intro": "泰山海拔1545米，为五岳之首，世界文化与自然双重遗产，历代帝王封禅圣地，观日出云海为核心体验。",
+    "match_reason": "可围绕山岳景观、日出云海、封禅文化策划内容。",
+    "caution": "偏好轻松或不爬山时不将登山玩法列为首选；夜爬需备防寒衣物；日出时间随季节变化。",
+    "season": "春秋最佳（4-5月、9-10月），夏季可避暑",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/03/6aea0290aa315.jpeg",
+    "source": "https://www.taian.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为泰山日出云海实拍；简介已查官方来源"
+  },
+  {
+    "id": "SD002",
+    "name": "栈桥",
+    "city": "青岛",
+    "tags": [
+      "城市地标",
+      "百年历史",
+      "海滨回澜阁",
+      "海鸥季"
+    ],
+    "intro": "青岛百年标志性建筑，桥身探入青岛湾深处，尽头回澜阁是青岛经典明信片取景地。",
+    "match_reason": "可策划青岛城市名片、冬季海鸥、百年栈桥历史等内容。",
+    "caution": "冬季（11月-次年4月）有红嘴鸥；节假日人流量极大。",
+    "season": "四季皆宜，冬季海鸥最多",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea065e3dd69.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为栈桥回澜阁海景；简介已查官方来源"
+  },
+  {
+    "id": "SD003",
+    "name": "台儿庄古城",
+    "city": "枣庄",
+    "tags": [
+      "运河古城",
+      "夜游摇橹船",
+      "5A级景区",
+      "沉浸式"
+    ],
+    "intro": "京杭大运河中心点上的古城，被世界旅游组织誉为'活着的运河'，夜景摇橹船为必体验项目。",
+    "match_reason": "可策划运河古城夜游、摇橹船体验、沉浸式古城穿越等内容。",
+    "caution": "建议下午入城住一晚体验夜游；摇橹船夜间排队较长。",
+    "season": "四季皆宜，夜游最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0662467f9.jpeg",
+    "source": "https://www.zaozhuang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为台儿庄古城夜景；简介已查官方来源"
+  },
+  {
+    "id": "SD004",
+    "name": "蓬莱阁",
+    "city": "烟台",
+    "tags": [
+      "四大名楼",
+      "八仙过海传说",
+      "海市蜃楼",
+      "5A级景区"
+    ],
+    "intro": "中国古代四大名楼之一，八仙过海传说发源地，云雾缭绕时如人间仙境。",
+    "match_reason": "可策划八仙传说、人间仙境、古楼登临等内容。",
+    "caution": "海市蜃楼可遇不可求；建议与长岛联游。",
+    "season": "夏秋最佳（6-9月）",
+    "image": "",
+    "source": "https://www.yantai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "配图待核验：疑似错图：画面为湖畔高塔，无法确认为蓬莱阁；暂缓展示，待补可核对图片。"
+  },
+  {
+    "id": "SD005",
+    "name": "刘公岛",
+    "city": "威海",
+    "tags": [
+      "甲午战争纪念地",
+      "北洋水师",
+      "红色教育",
+      "5A级景区"
+    ],
+    "intro": "甲午战争主战场，北洋水师提督署所在地，岛上历史遗迹众多，是重要爱国主义教育基地。",
+    "match_reason": "可策划红色教育、甲午历史、北洋水师等内容。",
+    "caution": "需乘船往返，船班受天气影响；建议预留半天时间。",
+    "season": "四季皆宜，夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea06698f32b.jpeg",
+    "source": "https://www.weihai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为刘公岛甲午战争博物馆；简介已查官方来源"
+  },
+  {
+    "id": "SD006",
+    "name": "黄河入海口",
+    "city": "东营",
+    "tags": [
+      "黄蓝交汇",
+      "湿地奇观",
+      "红地毯",
+      "候鸟迁徙",
+      "5A级景区"
+    ],
+    "intro": "黄河在此汇入渤海，呈现一清一黄'河海交汇'奇观，湿地芦苇荡、红海滩和候鸟群壮观。",
+    "match_reason": "可策划黄蓝交汇奇观、湿地生态、候鸟迁徙等内容。",
+    "caution": "黄蓝交汇需乘船或直升机观看；最佳观赏期为汛期；面积大需自驾。",
+    "season": "秋季最佳（10-11月）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea06693270b.jpeg",
+    "source": "https://www.dongying.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为黄河入海口黄蓝交汇；简介已查官方来源"
+  },
+  {
+    "id": "SD007",
+    "name": "趵突泉",
+    "city": "济南",
+    "tags": [
+      "天下第一泉",
+      "泉水景观",
+      "历史文化",
+      "5A级景区"
+    ],
+    "intro": "济南三大名胜之首，被誉为'天下第一泉'，三股泉水终年喷涌，是济南泉水文化的核心象征。",
+    "match_reason": "可围绕泉水文化、济南城市名片做内容策划。",
+    "caution": "泉水喷涌状态受降水影响；票价与开放时间需另查。",
+    "season": "四季皆宜，秋季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea067dbdd12.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为趵突泉三股涌泉；简介已查官方来源"
+  },
+  {
+    "id": "SD008",
+    "name": "大明湖",
+    "city": "济南",
+    "tags": [
+      "自然湖泊",
+      "泉城景观",
+      "慢节奏",
+      "荷花季"
+    ],
+    "intro": "由众泉汇流而成的天然湖泊，'四面荷花三面柳，一城山色半城湖'，超然楼夜景为标志性景观。",
+    "match_reason": "可策划湖畔漫步、荷花季、超然楼夜景等主题内容。",
+    "caution": "游船运营时间需现场确认；荷花季为夏季。",
+    "season": "四季皆宜，夏季荷花最美",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea066c9a5de.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为大明湖历下亭；简介已查官方来源"
+  },
+  {
+    "id": "SD009",
+    "name": "八大关",
+    "city": "青岛",
+    "tags": [
+      "万国建筑",
+      "历史文化街区",
+      "拍照出片",
+      "慢节奏漫步"
+    ],
+    "intro": "八大关汇集俄、英、法、德等20余国建筑风格，有'万国建筑博览会'之称，秋季梧桐银杏大道绝美。",
+    "match_reason": "可策划建筑摄影、秋日梧桐大道、街区漫步等内容。",
+    "caution": "花石楼等内部建筑开放时间需另查；街区为开放式。",
+    "season": "春秋最佳（5月、11月）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea066ebe4b9.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为八大关万国建筑；简介已查官方来源"
+  },
+  {
+    "id": "SD010",
+    "name": "五四广场",
+    "city": "青岛",
+    "tags": [
+      "城市地标",
+      "五月的风",
+      "浮山湾夜景",
+      "灯光秀"
+    ],
+    "intro": "青岛城市名片，红色雕塑'五月的风'为标志性景观，毗邻奥帆中心，夜间灯光秀震撼。",
+    "match_reason": "可策划青岛夜景、灯光秀、城市地标打卡等内容。",
+    "caution": "灯光秀时间随季节调整；建议与奥帆中心联游。",
+    "season": "四季皆宜，夜间更佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea067261132.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为五四广场五月的风；简介已查官方来源"
+  },
+  {
+    "id": "SD011",
+    "name": "海岱楼钟书阁",
+    "city": "淄博",
+    "tags": [
+      "最美书店",
+      "书山幻境",
+      "齐盛湖夜景",
+      "汉代建筑"
+    ],
+    "intro": "67米高汉代风格建筑内的钟书阁书店，镜面书墙打造'书山幻境'，登顶可俯瞰齐盛湖。",
+    "match_reason": "可策划最美书店打卡、书山幻境拍照、齐盛湖夜景等内容。",
+    "caution": "周末人多拍照需排队；书店内保持安静。",
+    "season": "四季皆宜，夜间更佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea067245b77.jpeg",
+    "source": "https://www.zibo.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为海岱楼钟书阁夜景；简介已查官方来源"
+  },
+  {
+    "id": "SD012",
+    "name": "曲阜三孔",
+    "city": "济宁",
+    "tags": [
+      "世界文化遗产",
+      "儒家文化",
+      "古建筑",
+      "文化研学"
+    ],
+    "intro": "孔庙、孔府、孔林合称三孔，是历代纪念孔子、推崇儒学的礼制建筑群，1994年列入世界文化遗产名录。",
+    "match_reason": "可围绕儒家文化与古建筑展开研学主题。",
+    "caution": "三孔需分别购票；建议请讲解了解儒家文化。",
+    "season": "四季皆宜，春季更佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea06961365d.jpeg",
+    "source": "https://www.jining.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为曲阜三孔孔庙；简介已查官方来源"
+  },
+  {
+    "id": "SD013",
+    "name": "成山头",
+    "city": "威海",
+    "tags": [
+      "天尽头",
+      "海角奇观",
+      "海岸日出"
+    ],
+    "intro": "成山头位于威海荣成海岸，拥有海岬景观，可围绕海上日出与海岸风光策划内容。",
+    "match_reason": "可策划大陆最东端、最早日出、海角打卡等内容。",
+    "caution": "看日出需凌晨出发；风大注意保暖；距威海市区较远。",
+    "season": "夏秋最佳（7-9月）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea06769b26d.jpeg",
+    "source": "https://www.weihai.gov.cn/art/2026/5/26/art_58817_6379825.html",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为成山头天尽头海景；简介已查官方来源"
+  },
+  {
+    "id": "SD014",
+    "name": "青州古城",
+    "city": "潍坊",
+    "tags": [
+      "古九州",
+      "明清古城",
+      "沉浸式NPC",
+      "夜游",
+      "5A级景区"
+    ],
+    "intro": "古九州之一的青州城，保存完整的明清古城街巷，NPC沉浸式演艺、县官巡街互动感强。",
+    "match_reason": "可策划沉浸式古城穿越、夜游青州、古九州文化等内容。",
+    "caution": "免费开放但内部展馆另收费；演艺时间需查询。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0678398c2.jpeg",
+    "source": "https://www.weifang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为青州古城古街；简介已查官方来源"
+  },
+  {
+    "id": "SD015",
+    "name": "沂蒙地下大峡谷",
+    "city": "临沂",
+    "tags": [
+      "特大型溶洞",
+      "暗河漂流",
+      "恒温18℃",
+      "5A级景区"
+    ],
+    "intro": "特大型溶洞峡谷，全长6100米，洞内暗河漂流惊险刺激，钟乳石千姿百态，恒温18℃。",
+    "match_reason": "可策划溶洞奇观、地下漂流、夏日避暑等内容。",
+    "caution": "洞内湿滑注意安全；漂流会湿身；夏季去最舒服。",
+    "season": "四季皆宜（避暑）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0679ec725.jpeg",
+    "source": "https://www.linyi.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为沂蒙地下大峡谷溶洞；简介已查官方来源"
+  },
+  {
+    "id": "SD016",
+    "name": "超然楼",
+    "city": "济南",
+    "tags": [
+      "网红打卡",
+      "亮灯瞬间",
+      "江北第一楼",
+      "夜景灯光"
+    ],
+    "intro": "大明湖畔标志性古建筑，傍晚亮灯瞬间被誉为'江北第一楼'，是济南最火夜景打卡点。",
+    "match_reason": "可策划超然楼亮灯瞬间、济南夜景等短视频内容。",
+    "caution": "亮灯时间随季节变化需提前查询；旺季需排队占位置。",
+    "season": "傍晚亮灯时（18:00-19:00）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0d8b6c1cd.jpg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为超然楼亮灯夜景；简介已查官方来源"
+  },
+  {
+    "id": "SD017",
+    "name": "小麦岛公园",
+    "city": "青岛",
+    "tags": [
+      "网红打卡",
+      "日落海景",
+      "草坪露营",
+      "浪漫治愈"
+    ],
+    "intro": "三面环海的浪漫小岛，草坪缓坡直通海边，日落时分橘色海面绝美，是青岛顶流网红地。",
+    "match_reason": "可策划日落海景、草坪露营、青岛浪漫约会地等内容。",
+    "caution": "日落前1小时到最佳；夏季周末人非常多。",
+    "season": "夏秋最佳（7-10月）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0dae581c2.jpg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为小麦岛公园海景；简介已查官方来源"
+  },
+  {
+    "id": "SD018",
+    "name": "火炬八街",
+    "city": "威海",
+    "tags": [
+      "网红打卡",
+      "日系街道",
+      "海边拍照",
+      "威海小镰仓"
+    ],
+    "intro": "下坡直通大海的日系风格街道，两侧彩色小楼，被称为'威海小镰仓'，拍照氛围感拉满。",
+    "match_reason": "可策划日系街道打卡、威海小镰仓、海边拍照等内容。",
+    "caution": "街道较短建议步行打卡；旺季拍照需排队。",
+    "season": "夏秋最佳（6-9月）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0d8c0ddfe.jpg",
+    "source": "https://www.weihai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为火炬八街街景；简介已查官方来源"
+  },
+  {
+    "id": "SD019",
+    "name": "养马岛",
+    "city": "烟台",
+    "tags": [
+      "网红打卡",
+      "东方小马代",
+      "玻璃海",
+      "环岛骑行"
+    ],
+    "intro": "秦始皇养马传说得名，海水清澈呈玻璃绿色，环岛路骑行体验极佳，被称为'东方小马代'。",
+    "match_reason": "可策划玻璃海打卡、环岛骑行、东方小马代等短视频内容。",
+    "caution": "建议租电动车环岛；后海观景台最佳；夏季周末堵车严重。",
+    "season": "夏季最佳（7-8月）",
+    "image": "",
+    "source": "https://www.yantai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "配图待核验：画面为欧式沿街建筑，与原注“养马岛碧海沙滩”不符；暂缓展示，待核对地点。"
+  },
+  {
+    "id": "SD020",
+    "name": "八大局便民市场",
+    "city": "淄博",
+    "tags": [
+      "网红打卡",
+      "紫米饼",
+      "炒锅饼",
+      "烟火气",
+      "美食"
+    ],
+    "intro": "因淄博烧烤爆红的便民市场，紫米饼、炒锅饼、牛奶棒等网红小吃云集，是淄博烟火气代表。",
+    "match_reason": "可策划淄博美食攻略、网红小吃打卡、烟火气市场探店等内容。",
+    "caution": "热门摊位排队较长；建议工作日前往；上午品类最全。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0daf57832.jpg",
+    "source": "https://www.zibo.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为八大局便民市场；简介已查官方来源"
+  },
+  {
+    "id": "SD021",
+    "name": "尼山圣境",
+    "city": "济宁",
+    "tags": [
+      "网红打卡",
+      "孔子诞生地",
+      "72米孔子像",
+      "夜景灯光秀",
+      "文化演出"
+    ],
+    "intro": "孔子诞生地打造的文化度假区，72米高孔子像巍峨壮观，《金声玉振》演出和夜景灯光秀震撼。",
+    "match_reason": "可策划文化度假、夜景灯光秀、儒家文化沉浸式体验等内容。",
+    "caution": "演出需单独购票；建议傍晚入园体验日夜双景。",
+    "season": "四季皆宜，夜游最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0d95c42ec.jpg",
+    "source": "https://www.jining.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为尼山圣境大学堂；简介已查官方来源"
+  },
+  {
+    "id": "SD022",
+    "name": "那香海",
+    "city": "威海",
+    "tags": [
+      "钻石沙滩",
+      "海景度假",
+      "欧式小镇",
+      "荣成"
+    ],
+    "intro": "2.5公里钻石沙滩，沙质细腻海水清澈，沿线欧式风情小镇，是威海海滨度假新晋网红地。",
+    "match_reason": "可策划海滨度假、钻石沙滩、欧式小镇等内容。",
+    "caution": "位置在荣成离威海市区远；夏季人多。",
+    "season": "夏季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0da27e1c4.jpg",
+    "source": "https://www.weihai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为那香海钻石沙滩；简介已查官方来源"
+  },
+  {
+    "id": "SD023",
+    "name": "曹州牡丹园",
+    "city": "菏泽",
+    "tags": [
+      "牡丹之都",
+      "1600亩牡丹",
+      "4-5月花期",
+      "汉服拍照"
+    ],
+    "intro": "世界最大的牡丹主题公园，1600亩土地上1300多个牡丹品种，每年4-5月花期国色天香。",
+    "match_reason": "可策划牡丹花海、汉服拍照、牡丹文化等内容。",
+    "caution": "仅4月中旬-5月初花期最佳；其他季节就是普通公园。",
+    "season": "春季（4月中旬-5月初）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0d9bbb290.jpg",
+    "source": "https://www.heze.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为曹州牡丹园牡丹花海；简介已查官方来源"
+  },
+  {
+    "id": "SD024",
+    "name": "东夷小镇",
+    "city": "日照",
+    "tags": [
+      "古风小镇",
+      "夜景",
+      "美食",
+      "海边",
+      "免费"
+    ],
+    "intro": "离海最近的仿古小镇，红灯笼夜景绝美，海鲜美食街云集，免费入园，是日照夜游必打卡。",
+    "match_reason": "可策划古风小镇夜景、海鲜美食、夜游日照等内容。",
+    "caution": "免费但商业化较重；节假日人挤人；建议傍晚去看夜景。",
+    "season": "四季皆宜，夜间最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/04/6aea0daac51c3.jpg",
+    "source": "https://www.rizhao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为东夷小镇风情；简介已查官方来源"
+  },
+  {
+    "id": "SD025",
+    "name": "千佛山",
+    "city": "济南",
+    "tags": [
+      "佛教文化",
+      "登山俯瞰",
+      "隋代石刻",
+      "城市公园"
+    ],
+    "intro": "济南三大名胜之一，隋代石刻佛像众多，登山可俯瞰泉城全景，兴国禅寺香火旺盛。",
+    "match_reason": "可策划登山俯瞰济南全景、佛教文化体验、重阳节登高内容。",
+    "caution": "不适合体力不佳者；山路较多需穿舒适鞋。",
+    "season": "春秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0e89882d2.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为千佛山大佛；简介已查官方来源"
+  },
+  {
+    "id": "SD026",
+    "name": "红叶谷",
+    "city": "济南",
+    "tags": [
+      "秋日红叶",
+      "4000亩黄栌",
+      "层林尽染",
+      "生态旅游"
+    ],
+    "intro": "济南南部山区的秋日赏红叶胜地，四千亩黄栌林秋季漫山红遍，层林尽染。",
+    "match_reason": "可策划济南秋季赏枫、近郊徒步、秋景摄影等内容。",
+    "caution": "仅秋季（10-11月）红叶最佳；其他季节景色一般。",
+    "season": "秋季（10月底-11月初）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d4469867.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为红叶谷秋景；简介已查官方来源"
+  },
+  {
+    "id": "SD027",
+    "name": "曲水亭街",
+    "city": "济南",
+    "tags": [
+      "老济南巷子",
+      "泉水人家",
+      "慢生活",
+      "文艺打卡"
+    ],
+    "intro": "济南老城区的传统街巷，泉水穿街而过，家家泉水户户垂杨，保留老济南风情。",
+    "match_reason": "可策划老济南慢生活、泉水人家、文艺拍照等内容。",
+    "caution": "街道狭窄，节假日人流量大；建议工作日上午去。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d43f2cdc.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为曲水亭街泉水人家；简介已查官方来源"
+  },
+  {
+    "id": "SD028",
+    "name": "宽厚里",
+    "city": "济南",
+    "tags": [
+      "美食街",
+      "夜景灯光",
+      "沉浸式商业街",
+      "小吃云集"
+    ],
+    "intro": "济南老牌商业街区，夜晚牌坊灯火辉煌，汇聚各地美食小吃，烟火气浓厚。",
+    "match_reason": "可策划济南美食街、夜景打卡、小吃探店等内容。",
+    "caution": "节假日人多拥挤；建议傍晚去看夜景。",
+    "season": "四季皆宜，夜间更佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d479aeff.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为宽厚里美食街；简介已查官方来源"
+  },
+  {
+    "id": "SD029",
+    "name": "芙蓉街",
+    "city": "济南",
+    "tags": [
+      "百年老街",
+      "美食小吃",
+      "市井烟火",
+      "济南韵味"
+    ],
+    "intro": "济南最有名的小吃老街，两侧商铺林立，特色小吃琳琅满目，是老城烟火气的代表。",
+    "match_reason": "可策划济南美食探店、老街烟火气、市井生活等内容。",
+    "caution": "节假日人挤人；周末排队较长。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0e09eca3d.jpg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为芙蓉街小吃街；简介已查官方来源"
+  },
+  {
+    "id": "SD030",
+    "name": "山东博物馆",
+    "city": "济南",
+    "tags": [
+      "省级综合博物馆",
+      "免费",
+      "历史文物",
+      "恐龙化石"
+    ],
+    "intro": "山东省规模最大的综合性博物馆，馆藏丰富，展出山东历史文物和自然标本。",
+    "match_reason": "可策划博物馆打卡、历史文化研学、亲子游等内容。",
+    "caution": "周一闭馆；需提前预约；热门展厅人多。",
+    "season": "四季皆宜（周一闭馆）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d4729be4.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为山东博物馆文物；简介已查官方来源"
+  },
+  {
+    "id": "SD031",
+    "name": "黑虎泉",
+    "city": "济南",
+    "tags": [
+      "天然泉水",
+      "兽首吐水",
+      "免费",
+      "市民取水"
+    ],
+    "intro": "济南四大泉群之一，三个石虎头喷涌泉水，气势磅礴，市民常在此取水饮用。",
+    "match_reason": "可策划泉水景观、市民生活、济南泉文化等内容。",
+    "caution": "免费开放；冬季泉水温度较高；注意脚下湿滑。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d56d6bbe.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为黑虎泉喷涌；简介已查官方来源"
+  },
+  {
+    "id": "SD032",
+    "name": "明水古城",
+    "city": "济南",
+    "tags": [
+      "百脉泉",
+      "李清照故居",
+      "水乡古城",
+      "新晋网红"
+    ],
+    "intro": "章丘明水古城，以百脉泉和李清照文化为核心，北方水乡风貌，近年新晋网红。",
+    "match_reason": "可策划北方水乡、李清照文化、古城夜游等内容。",
+    "caution": "距离济南市区较远；建议与百脉泉联游。",
+    "season": "四季皆宜，春夏最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d4e3dbe8.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为明水古城风光；简介已查官方来源"
+  },
+  {
+    "id": "SD033",
+    "name": "百花洲",
+    "city": "济南",
+    "tags": [
+      "老城区",
+      "泉水人家",
+      "历史街区",
+      "慢生活"
+    ],
+    "intro": "济南老城区的泉水街区，保留明清老建筑，青砖灰瓦倒映水中，文艺氛围浓厚。",
+    "match_reason": "可策划老济南历史街区、文艺拍照、慢生活体验等内容。",
+    "caution": "街区不大；商业化程度中等。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d52dcbc1.jpeg",
+    "source": "https://www.jinan.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为百花洲历史街区；简介已查官方来源"
+  },
+  {
+    "id": "SD034",
+    "name": "崂山",
+    "city": "青岛",
+    "tags": [
+      "海上名山",
+      "道教文化",
+      "山海奇观",
+      "5A级景区"
+    ],
+    "intro": "中国海岸线第一高峰，'海上第一名山'，道教全真派圣地，山海相连景色壮丽。",
+    "match_reason": "可策划山海奇观、道教文化、登山徒步等内容。",
+    "caution": "分多条游览线建议提前规划；巨峰线看日出需缆车。",
+    "season": "夏秋最佳（6-10月）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d50a3cc6.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为崂山海上仙山；简介已查官方来源"
+  },
+  {
+    "id": "SD035",
+    "name": "奥帆中心",
+    "city": "青岛",
+    "tags": [
+      "帆船出海",
+      "奥运遗产",
+      "浮山湾",
+      "游艇体验"
+    ],
+    "intro": "2008年北京奥运会帆船比赛场地，可乘帆船出海，夜晚浮山湾夜景绝美。",
+    "match_reason": "可策划帆船出海体验、奥运城市印记、浮山湾夜景等内容。",
+    "caution": "帆船体验需额外付费；受天气影响大。",
+    "season": "夏季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d52c8f7b.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为奥帆中心帆船码头；简介已查官方来源"
+  },
+  {
+    "id": "SD036",
+    "name": "青岛啤酒博物馆",
+    "city": "青岛",
+    "tags": [
+      "工业旅游",
+      "啤酒文化",
+      "百年历史",
+      "原浆品鉴"
+    ],
+    "intro": "建于百年老啤酒厂内，是中国工业旅游标杆，可了解啤酒酿造历史并品尝原浆鲜啤。",
+    "match_reason": "可策划啤酒文化溯源、工业旅游、原浆啤酒品鉴等内容。",
+    "caution": "需购票；醉酒后不要驾车；旺季排队较长。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d5627a4b.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为青岛啤酒博物馆；简介已查官方来源"
+  },
+  {
+    "id": "SD037",
+    "name": "大学路网红墙",
+    "city": "青岛",
+    "tags": [
+      "网红打卡",
+      "红墙黄瓦转角",
+      "文艺拍照",
+      "ins风"
+    ],
+    "intro": "红墙黄瓦的大学路转角，是青岛最火的拍照打卡点之一，文艺青年必到之处。",
+    "match_reason": "可策划网红打卡、文艺拍照、青岛老街巷等内容。",
+    "caution": "拍照需排队；工作日人少；转角处注意来往车辆。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d578f731.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为大学路网红墙；简介已查官方来源"
+  },
+  {
+    "id": "SD038",
+    "name": "燕儿岛山公园",
+    "city": "青岛",
+    "tags": [
+      "网红打卡",
+      "海边木栈道",
+      "蓝调晚霞",
+      "徒步"
+    ],
+    "intro": "青岛新晋网红公园，沿海木栈道蜿蜒，傍晚蓝调晚霞时分绝美，拍照出片。",
+    "match_reason": "可策划海边栈道、蓝调晚霞、青岛网红公园等内容。",
+    "caution": "栈道湿滑注意安全；傍晚去最佳。",
+    "season": "夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d5b2a9f7.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为燕儿岛山公园海景；简介已查官方来源"
+  },
+  {
+    "id": "SD039",
+    "name": "信号山公园",
+    "city": "青岛",
+    "tags": [
+      "旋转观景台",
+      "俯瞰老城",
+      "红屋顶",
+      "城市全景"
+    ],
+    "intro": "山顶旋转观景台360度俯瞰青岛老城红屋顶，是看城市全景的绝佳位置。",
+    "match_reason": "可策划俯瞰青岛全景、红屋顶打卡、城市观景等内容。",
+    "caution": "旋转观景台另收费；山不高爬起来轻松。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d62cdc04.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为信号山公园俯瞰；简介已查官方来源"
+  },
+  {
+    "id": "SD040",
+    "name": "石老人海水浴场",
+    "city": "青岛",
+    "tags": [
+      "沙滩",
+      "日出",
+      "冲浪",
+      "城市海景"
+    ],
+    "intro": "青岛东部大型海水浴场，沙质细腻，清晨日出时分沙滩倒影绝美。",
+    "match_reason": "可策划海边日出、沙滩漫步、冲浪体验等内容。",
+    "caution": "夏季人多；日出最佳观赏点。",
+    "season": "夏季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d5b31c12.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为石老人海水浴场日出；简介已查官方来源"
+  },
+  {
+    "id": "SD041",
+    "name": "圣弥厄尔大教堂",
+    "city": "青岛",
+    "tags": [
+      "哥特式建筑",
+      "天主教堂",
+      "婚纱照",
+      "历史建筑"
+    ],
+    "intro": "青岛最大的哥特式建筑，双尖塔高耸，是老城区地标，也是婚纱照热门取景地。",
+    "match_reason": "可策划哥特式建筑、老城地标、婚纱照取景地等内容。",
+    "caution": "内部参观另收费；广场拍照人多。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d60d2a6b.jpeg",
+    "source": "https://www.qingdao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为圣弥厄尔大教堂；简介已查官方来源"
+  },
+  {
+    "id": "SD042",
+    "name": "周村古商城",
+    "city": "淄博",
+    "tags": [
+      "古商业街",
+      "鲁商文化",
+      "天下第一村",
+      "民俗"
+    ],
+    "intro": "被誉为'天下第一村'，明清古建筑群保存完好，是鲁商文化发源地。",
+    "match_reason": "可策划古商业街、鲁商文化、民俗体验等内容。",
+    "caution": "内部展馆需另购票；节假日人流量大建议早到。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d655a884.jpeg",
+    "source": "https://www.zibo.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为周村古商城；简介已查官方来源"
+  },
+  {
+    "id": "SD043",
+    "name": "中国陶瓷琉璃馆",
+    "city": "淄博",
+    "tags": [
+      "陶瓷文化",
+      "琉璃艺术",
+      "免费",
+      "工业旅游"
+    ],
+    "intro": "展示淄博八千年陶瓷文明与琉璃艺术的专业博物馆，馆藏精美琉璃艺术品令人震撼。",
+    "match_reason": "可策划陶瓷文化、琉璃艺术、免费博物馆打卡等内容。",
+    "caution": "周一闭馆；需预约；展品精美但讲解不足。",
+    "season": "四季皆宜（周一闭馆）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d60a9acc.jpeg",
+    "source": "https://www.zibo.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为中国陶瓷琉璃馆；简介已查官方来源"
+  },
+  {
+    "id": "SD044",
+    "name": "齐盛湖公园",
+    "city": "淄博",
+    "tags": [
+      "城市公园",
+      "海岱楼",
+      "湖景",
+      "休闲"
+    ],
+    "intro": "淄博市中心大型城市公园，海岱楼临湖而立，夜景倒影绝美。",
+    "match_reason": "可策划城市公园、海岱楼夜景、湖景漫步等内容。",
+    "caution": "免费开放；傍晚去看夜景最佳。",
+    "season": "四季皆宜，夜间更佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d605b653.jpeg",
+    "source": "https://www.zibo.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为齐盛湖公园海岱楼；简介已查官方来源"
+  },
+  {
+    "id": "SD045",
+    "name": "潭溪山",
+    "city": "淄博",
+    "tags": [
+      "玻璃桥",
+      "瀑布",
+      "自然山水",
+      "4A级景区"
+    ],
+    "intro": "淄博潭溪山旅游区，高空玻璃桥横跨峡谷，瀑布群众多，自然山水秀丽。",
+    "match_reason": "可策划高空玻璃桥、瀑布景观、自然徒步等内容。",
+    "caution": "玻璃桥另收费；登山需体力；夏季凉爽。",
+    "season": "夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fb55bc46.jpeg",
+    "source": "https://boftec.zibo.gov.cn/cec/charm/detail?charmid=167",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为潭溪山玻璃栈道；简介已查官方来源"
+  },
+  {
+    "id": "SD046",
+    "name": "抱犊崮",
+    "city": "枣庄",
+    "tags": [
+      "国家森林公园",
+      "丹霞地貌",
+      "山林红叶",
+      "徒步"
+    ],
+    "intro": "枣庄抱犊崮国家森林公园，深秋时节层林尽染，壮美秋景似油画。",
+    "match_reason": "可策划山林徒步、秋日红叶、生态旅游等内容。",
+    "caution": "距离市区较远；登山需体力。",
+    "season": "秋季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fc04eb96.jpeg",
+    "source": "https://www.zaozhuang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为抱犊崮国家森林公园；简介已查官方来源"
+  },
+  {
+    "id": "SD047",
+    "name": "微山湖红荷湿地",
+    "city": "枣庄",
+    "tags": [
+      "荷花湿地",
+      "芦苇荡",
+      "水乡风光",
+      "生态"
+    ],
+    "intro": "微山湖红荷湿地景区，夏季荷花怒放，万亩芦苇荡，水乡风光旖旎。",
+    "match_reason": "可策划荷花湿地、水乡风光、生态旅游等内容。",
+    "caution": "荷花季为7-8月；需乘船游览。",
+    "season": "夏季最佳（7-8月荷花）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d6a64414.jpeg",
+    "source": "https://www.zaozhuang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为微山湖红荷湿地荷花；简介已查官方来源"
+  },
+  {
+    "id": "SD048",
+    "name": "孙子文化旅游区",
+    "city": "东营",
+    "tags": [
+      "兵圣文化",
+      "孙武故里",
+      "军事主题",
+      "5A级景区"
+    ],
+    "intro": "广饶孙子文化园，以兵圣孙武文化为主题，兵圣宫建筑宏伟。",
+    "match_reason": "可策划兵圣文化、军事主题园、亲子研学等内容。",
+    "caution": "面积较大；建议预留半天时间。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d680a0e1.jpeg",
+    "source": "https://www.dongying.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为孙子文化旅游区；简介已查官方来源"
+  },
+  {
+    "id": "SD049",
+    "name": "孤岛槐树林温泉",
+    "city": "东营",
+    "tags": [
+      "万亩槐林",
+      "温泉度假",
+      "生态",
+      "5月槐花"
+    ],
+    "intro": "亚洲最大人工刺槐林，每年五月槐花盛开，还有地热温泉可疗养。",
+    "match_reason": "可策划槐花季、温泉度假、生态旅游等内容。",
+    "caution": "仅5月槐花季最美；温泉需另付费。",
+    "season": "五月槐花季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fb6ba93e.jpeg",
+    "source": "https://www.dongying.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为孤岛槐树林温泉；简介已查官方来源"
+  },
+  {
+    "id": "SD050",
+    "name": "长岛",
+    "city": "烟台",
+    "tags": [
+      "海岛县",
+      "黄渤海分界线",
+      "万鸟岛",
+      "渔家乐"
+    ],
+    "intro": "山东唯一的海岛县，由32个岛屿组成，黄渤海分界线清晰可见，万鸟岛海鸥成群。",
+    "match_reason": "可策划海岛度假、黄渤海分界、万鸟岛观鸟等内容。",
+    "caution": "需乘船往返，遇大风停航；旺季船票紧张。",
+    "season": "夏季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fb766768.jpeg",
+    "source": "https://www.yantai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为长岛海岛风光；简介已查官方来源"
+  },
+  {
+    "id": "SD051",
+    "name": "烟台山景区",
+    "city": "烟台",
+    "tags": [
+      "烟台发源地",
+      "灯塔",
+      "近代建筑",
+      "海滨"
+    ],
+    "intro": "烟台城市发源地，山顶灯塔是地标，山上保留多国近代建筑，山海相连。",
+    "match_reason": "可策划城市发源地、灯塔打卡、近代建筑博览等内容。",
+    "caution": "山不高；免费开放；建议半天游览。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fdba696b.jpeg",
+    "source": "https://www.yantai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为烟台山近代建筑；简介已查官方来源"
+  },
+  {
+    "id": "SD052",
+    "name": "所城里",
+    "city": "烟台",
+    "tags": [
+      "明代奇山所城",
+      "老街巷",
+      "非遗",
+      "历史街区"
+    ],
+    "intro": "烟台城市的根，明代奇山所城旧址，翻新后的老街巷保留历史韵味，挂满彩色灯笼。",
+    "match_reason": "可策划明代所城、历史街区、非遗体验等内容。",
+    "caution": "免费开放；夜间灯笼亮后更美。",
+    "season": "四季皆宜，夜间更佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fc5dbdf7.jpeg",
+    "source": "https://www.yantai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为所城里历史街区；简介已查官方来源"
+  },
+  {
+    "id": "SD053",
+    "name": "朝阳街",
+    "city": "烟台",
+    "tags": [
+      "近代开埠",
+      "中西合璧",
+      "历史街区",
+      "万国建筑"
+    ],
+    "intro": "烟台开埠文化特色街区，保留大量西式立面与中式庭院融合的历史建筑。",
+    "match_reason": "可策划开埠文化、中西合璧建筑、历史街区漫步等内容。",
+    "caution": "免费开放；酒吧较多夜间热闹。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fc83541c.jpeg",
+    "source": "https://www.yantai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为朝阳街商街；简介已查官方来源"
+  },
+  {
+    "id": "SD054",
+    "name": "张裕酒文化博物馆",
+    "city": "烟台",
+    "tags": [
+      "葡萄酒文化",
+      "百年酒窖",
+      "品酒体验",
+      "工业旅游"
+    ],
+    "intro": "中国首座葡萄酒文化主题博物馆，展示张裕百年酿酒历史，可品酒体验。",
+    "match_reason": "可策划葡萄酒文化、品酒体验、百年酒窖探秘等内容。",
+    "caution": "需购票；品酒含在门票内；地下酒窖恒温。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec102e90cb4.jpeg",
+    "source": "https://www.yantai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为张裕酒文化博物馆；简介已查官方来源"
+  },
+  {
+    "id": "SD055",
+    "name": "沂山风景区",
+    "city": "潍坊",
+    "tags": [
+      "东镇沂山",
+      "五镇之首",
+      "东镇庙",
+      "登山"
+    ],
+    "intro": "沂山为五大镇山之首，东镇庙祭祀历史悠久，山林清幽。",
+    "match_reason": "可策划镇山文化、登山徒步、东镇庙等内容。",
+    "caution": "面积较大；建议自驾前往。",
+    "season": "夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ff3607ca.jpeg",
+    "source": "https://www.weifang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为沂山风景区；简介已查官方来源"
+  },
+  {
+    "id": "SD056",
+    "name": "云门山",
+    "city": "潍坊",
+    "tags": [
+      "寿字摩崖",
+      "道教名山",
+      "青州地标",
+      "登山"
+    ],
+    "intro": "青州云门山以云门洞、摩崖“寿”字等景观闻名，可围绕石刻文化与山岳风光策划内容。",
+    "match_reason": "可策划寿字打卡、道教名山、青州地标等内容。",
+    "caution": "山不高；与青州古城联游更佳。",
+    "season": "四季皆宜",
+    "image": "",
+    "source": "https://shandong-chorography.org/database/b7/section/1/article/1647/",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "配图待核验：疑似同名景点混淆：画面是电梯与高空瀑布，并非原注青州云门山“寿”字；暂缓展示。"
+  },
+  {
+    "id": "SD057",
+    "name": "世界风筝博物馆",
+    "city": "潍坊",
+    "tags": [
+      "风筝之都",
+      "风筝专题博物馆",
+      "风筝文化",
+      "免费"
+    ],
+    "intro": "风筝专题博物馆，展示各国各式风筝，是潍坊风筝之都的窗口。",
+    "match_reason": "可策划风筝文化、世界风筝博物馆、亲子研学等内容。",
+    "caution": "周一闭馆；免费但需预约。",
+    "season": "四季皆宜（周一闭馆）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ff3ecaa3.jpeg",
+    "source": "https://www.weifang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为世界风筝博物馆；简介已查官方来源"
+  },
+  {
+    "id": "SD058",
+    "name": "坊茨小镇",
+    "city": "潍坊",
+    "tags": [
+      "德日建筑群",
+      "工业遗产",
+      "文艺拍照",
+      "胶济铁路"
+    ],
+    "intro": "保留德日侵占时期建筑的小镇，红墙老厂房，文艺青年拍照打卡地。",
+    "match_reason": "可策划工业遗产、德日建筑、文艺拍照等内容。",
+    "caution": "部分建筑破败；人少适合拍照；距离市区远。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ff48abbc.jpeg",
+    "source": "https://www.weifang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为坊茨小镇德日建筑；简介已查官方来源"
+  },
+  {
+    "id": "SD059",
+    "name": "石门坊",
+    "city": "潍坊",
+    "tags": [
+      "红叶",
+      "秋日赏枫",
+      "临朐",
+      "山谷步道"
+    ],
+    "intro": "临朐石门坊，深秋红叶漫山，沿木栈道穿行红叶谷，秋日绝美。",
+    "match_reason": "可策划秋日红叶、山谷徒步、摄影等内容。",
+    "caution": "仅10月底-11月初红叶最佳。",
+    "season": "秋季（10月底-11月初）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec102ae8da1.jpeg",
+    "source": "https://www.weifang.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为石门坊红叶；简介已查官方来源"
+  },
+  {
+    "id": "SD060",
+    "name": "仰天山国家森林公园",
+    "city": "潍坊",
+    "tags": [
+      "森林公园",
+      "喀斯特溶洞",
+      "秋日红叶",
+      "登山"
+    ],
+    "intro": "仰天山国家森林公园位于山东省青州市，可围绕森林景观与自然教育策划内容。",
+    "match_reason": "可策划森林公园、溶洞探秘、登山徒步等内容。",
+    "caution": "面积大；建议自驾。",
+    "season": "夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec1028c0e79.jpeg",
+    "source": "https://www.forestry.gov.cn/c/www/kjzrjy/591413.jhtml",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为仰天山森林公园；简介已查官方来源"
+  },
+  {
+    "id": "SD061",
+    "name": "孔子博物馆",
+    "city": "济宁",
+    "tags": [
+      "国家级博物馆",
+      "孔子文化",
+      "文物",
+      "建筑现代"
+    ],
+    "intro": "展示孔子和儒家文化的现代化博物馆，建筑恢弘，馆藏丰富。",
+    "match_reason": "可策划孔子文化研学、博物馆打卡、文物观赏等内容。",
+    "caution": "周一闭馆；免费但需预约。",
+    "season": "四季皆宜（周一闭馆）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ff7a1804.jpeg",
+    "source": "https://www.jining.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为孔子博物馆；简介已查官方来源"
+  },
+  {
+    "id": "SD062",
+    "name": "水泊梁山",
+    "city": "济宁",
+    "tags": [
+      "水浒文化",
+      "梁山寨",
+      "忠义堂",
+      "武侠实景"
+    ],
+    "intro": "《水浒传》故事发生地，梁山寨、忠义堂等景点再现水浒英雄风采。",
+    "match_reason": "可策划水浒文化、武侠主题、名著打卡等内容。",
+    "caution": "山不高但景色一般；情景剧演出时间固定。",
+    "season": "春秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d8a6801a.jpeg",
+    "source": "https://www.jining.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为水泊梁山；简介已查官方来源"
+  },
+  {
+    "id": "SD063",
+    "name": "微山湖",
+    "city": "济宁",
+    "tags": [
+      "北方最大淡水湖",
+      "荷花",
+      "铁道游击队",
+      "水乡"
+    ],
+    "intro": "北方最大淡水湖，夏季荷花盛开，芦苇荡一望无际，铁道游击队故乡。",
+    "match_reason": "可策划湖泊湿地、荷花季、红色旅游等内容。",
+    "caution": "需乘船；荷花季为夏季。",
+    "season": "夏季最佳（7-8月）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ff8e8d92.jpeg",
+    "source": "https://www.jining.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为微山湖风光；简介已查官方来源"
+  },
+  {
+    "id": "SD064",
+    "name": "岱庙",
+    "city": "泰安",
+    "tags": [
+      "古代帝王祭祀",
+      "古建筑群",
+      "古柏",
+      "泰山脚下"
+    ],
+    "intro": "泰山脚下的历代帝王祭祀泰山之地，与故宫、孔庙并称中国三大古建筑群。",
+    "match_reason": "可策划泰山文化起点、古建筑群、帝王祭祀等内容。",
+    "caution": "面积不大1小时可逛完；与泰山联游更佳。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ffae6003.jpeg",
+    "source": "https://www.taian.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为岱庙古建筑；简介已查官方来源"
+  },
+  {
+    "id": "SD065",
+    "name": "泰安地下龙宫",
+    "city": "泰安",
+    "tags": [
+      "溶洞暗河",
+      "地下漂流",
+      "钟乳石",
+      "地质奇观"
+    ],
+    "intro": "泰山地下大裂谷溶洞，6000米观光长度，4000米地下暗河漂流惊险刺激。",
+    "match_reason": "可策划溶洞奇观、地下漂流、夏日避暑等内容。",
+    "caution": "洞内湿滑注意安全；漂流会湿身。",
+    "season": "四季皆宜（洞内恒温）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ffac5a3e.jpeg",
+    "source": "https://www.taian.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为泰安地下龙宫溶洞；简介已查官方来源"
+  },
+  {
+    "id": "SD066",
+    "name": "新大宋不夜城",
+    "city": "泰安",
+    "tags": [
+      "夜游不夜城",
+      "宋文化",
+      "灯光秀",
+      "沉浸式"
+    ],
+    "intro": "东平大宋不夜城，夜晚灯光璀璨，以宋文化为主题的沉浸式夜游街区。",
+    "match_reason": "可策划夜游不夜城、宋文化、灯光秀等内容。",
+    "caution": "免费开放；夜间去最佳；节假日人多。",
+    "season": "夜间最佳，四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ffcf0dab.jpeg",
+    "source": "https://www.taian.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为新大宋不夜城夜景；简介已查官方来源"
+  },
+  {
+    "id": "SD067",
+    "name": "方特欢乐世界",
+    "city": "泰安",
+    "tags": [
+      "主题乐园",
+      "过山车",
+      "亲子游",
+      "科幻体验"
+    ],
+    "intro": "泰安方特欢乐世界，大型主题乐园，过山车等游乐项目丰富，亲子游玩好去处。",
+    "match_reason": "可策划主题乐园、亲子游、过山车体验等内容。",
+    "caution": "门票较贵；夏季水上项目最佳。",
+    "season": "四季皆宜（夏季水上项目最佳）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ffd77b21.jpeg",
+    "source": "https://www.taian.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为方特欢乐世界；简介已查官方来源"
+  },
+  {
+    "id": "SD068",
+    "name": "威海之窗（大相框）",
+    "city": "威海",
+    "tags": [
+      "城市地标",
+      "大相框雕塑",
+      "海边打卡",
+      "《国家地理》"
+    ],
+    "intro": "双手托举巨型相框的雕塑，透过相框看碧海蓝天，被《国家地理》誉为'威海之窗'。",
+    "match_reason": "可策划城市地标、相框打卡、海边拍照等内容。",
+    "caution": "免费开放；早晨人少。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0fff26135.jpeg",
+    "source": "https://www.weihai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为威海大相框地标；简介已查官方来源"
+  },
+  {
+    "id": "SD069",
+    "name": "国际海水浴场",
+    "city": "威海",
+    "tags": [
+      "沙滩",
+      "国际浴场",
+      "海滨度假",
+      "海滨沙滩"
+    ],
+    "intro": "威海国际海水浴场以沙滩与海滨景观为特色，可策划夏季海滨度假内容。",
+    "match_reason": "可策划海滨度假、沙滩玩耍、夏日避暑等内容。",
+    "caution": "夏季人多；周边住宿需提前订。",
+    "season": "夏季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0ffec2564.jpeg",
+    "source": "https://www.weihai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为国际海水浴场；简介已查官方来源"
+  },
+  {
+    "id": "SD070",
+    "name": "猫头山环海公路",
+    "city": "威海",
+    "tags": [
+      "环海路",
+      "观景台",
+      "自驾",
+      "海岸线"
+    ],
+    "intro": "威海环海路最精华路段，多个观景台可俯瞰弧形海岸线，自驾体验极佳。",
+    "match_reason": "可策划环海公路自驾、观景台打卡、海岸线航拍等内容。",
+    "caution": "自驾最佳；公共交通不便；旺季自驾堵车。",
+    "season": "夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d8b06695.jpeg",
+    "source": "https://www.weihai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为猫头山环海公路；简介已查官方来源"
+  },
+  {
+    "id": "SD071",
+    "name": "华夏城",
+    "city": "威海",
+    "tags": [
+      "生态修复",
+      "矿坑改造",
+      "实景演出",
+      "5A级景区"
+    ],
+    "intro": "矿坑修复改造的生态文化景区，《神游华夏》实景演出震撼。",
+    "match_reason": "可策划生态修复奇迹、实景演出、矿坑公园等内容。",
+    "caution": "景区较大步行多；演出另收费。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d8b89d2a.jpeg",
+    "source": "https://www.weihai.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为华夏城景区；简介已查官方来源"
+  },
+  {
+    "id": "SD072",
+    "name": "万平口海滨",
+    "city": "日照",
+    "tags": [
+      "海岸线",
+      "日出",
+      "日照地标",
+      "沙滩"
+    ],
+    "intro": "日照城市名片海岸线，1号门地标雕塑、3号门婚拍基地各有特色。",
+    "match_reason": "可策划海滨日出、海岸线漫步、日照城市名片等内容。",
+    "caution": "海岸线很长，各号门风格不同；夏季人多。",
+    "season": "夏季最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d855591c.jpeg",
+    "source": "https://www.rizhao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为万平口海滨；简介已查官方来源"
+  },
+  {
+    "id": "SD073",
+    "name": "海滨国家森林公园",
+    "city": "日照",
+    "tags": [
+      "水杉林",
+      "沙滩",
+      "森林",
+      "生态"
+    ],
+    "intro": "日照海滨国家森林公园，千亩水杉林与金色沙滩相连，初冬水杉林如油画。",
+    "match_reason": "可策划水杉林、森林沙滩、生态旅游等内容。",
+    "caution": "面积大；建议自驾或坐观光车。",
+    "season": "四季皆宜，秋冬水杉最美",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d85884e1.jpeg",
+    "source": "https://www.rizhao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为海滨国家森林公园；简介已查官方来源"
+  },
+  {
+    "id": "SD074",
+    "name": "灯塔风景区",
+    "city": "日照",
+    "tags": [
+      "灯塔",
+      "礁石",
+      "海边日出",
+      "观潮"
+    ],
+    "intro": "日照灯塔风景区，海边礁石林立，灯塔矗立，是看日出和观潮的好地方。",
+    "match_reason": "可策划海边日出、礁石观潮、灯塔打卡等内容。",
+    "caution": "礁石湿滑注意安全；风大注意保暖。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d8fbe040.jpeg",
+    "source": "https://www.rizhao.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为灯塔风景区；简介已查官方来源"
+  },
+  {
+    "id": "SD075",
+    "name": "蒙山国家森林公园",
+    "city": "临沂",
+    "tags": [
+      "天然氧吧",
+      "云海",
+      "登山",
+      "5A级景区"
+    ],
+    "intro": "蒙山国家森林公园，林海花潮，云海奇观，是山东第二高峰。",
+    "match_reason": "可策划天然氧吧、登山避暑、云海奇观等内容。",
+    "caution": "面积大；建议缆车上下；夏季凉爽。",
+    "season": "夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d8d8d89c.jpeg",
+    "source": "https://www.linyi.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为蒙山国家森林公园云海；简介已查官方来源"
+  },
+  {
+    "id": "SD076",
+    "name": "竹泉村",
+    "city": "临沂",
+    "tags": [
+      "明清古村",
+      "竹林泉水",
+      "民宿",
+      "乡村旅游"
+    ],
+    "intro": "沂蒙山中的明清古村落，竹林环绕泉水穿村，是乡村旅游网红目的地。",
+    "match_reason": "可策划古村民宿、竹林泉水、乡村慢生活等内容。",
+    "caution": "商业化较重；门票偏贵；旺季住宿需提前订。",
+    "season": "夏秋最佳",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d900da4b.jpeg",
+    "source": "https://www.linyi.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为竹泉村沂蒙水乡；简介已查官方来源"
+  },
+  {
+    "id": "SD077",
+    "name": "王羲之故居",
+    "city": "临沂",
+    "tags": [
+      "书圣故里",
+      "书法文化",
+      "园林",
+      "洗砚池"
+    ],
+    "intro": "书圣王羲之幼年居住处，古典园林式建筑，书法文化浓厚。",
+    "match_reason": "可策划书圣故里、书法文化、古典园林等内容。",
+    "caution": "面积不大；免费开放。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d9d688aa.jpeg",
+    "source": "https://www.linyi.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为王羲之故居洗砚池；简介已查官方来源"
+  },
+  {
+    "id": "SD078",
+    "name": "水韵琅琊·夜画琅琊",
+    "city": "临沂",
+    "tags": [
+      "夜游演艺",
+      "游船",
+      "实景演出",
+      "新晋网红"
+    ],
+    "intro": "行进式游船演艺，'人在船中坐、船在画中游'，沿沂河展现琅琊文化。",
+    "match_reason": "可策划夜游演艺、游船体验、琅琊文化等内容。",
+    "caution": "需购票；仅夜间演出；夏季为宜。",
+    "season": "夜间最佳，夏季为宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0d94cf420.jpeg",
+    "source": "https://www.linyi.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为水韵琅琊夜景；简介已查官方来源"
+  },
+  {
+    "id": "SD079",
+    "name": "泉城欧乐堡梦幻世界",
+    "city": "德州",
+    "tags": [
+      "主题乐园",
+      "城堡建筑",
+      "过山车",
+      "亲子游"
+    ],
+    "intro": "齐河泉城欧乐堡梦幻世界，欧式城堡风格主题乐园，紧邻济南。",
+    "match_reason": "可策划主题乐园、欧式城堡拍照、亲子游等内容。",
+    "caution": "门票较贵；距离济南近。",
+    "season": "四季皆宜",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec102151afb.jpeg",
+    "source": "https://www.dezhou.gov.cn",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为泉城欧乐堡烟花；简介已查官方来源"
+  },
+  {
+    "id": "SD080",
+    "name": "夏津黄河故道森林公园",
+    "city": "德州",
+    "tags": [
+      "古桑树群",
+      "全球重要农业文化遗产（古桑树群系统）",
+      "生态",
+      "采摘"
+    ],
+    "intro": "夏津黄河故道地区分布古桑树群，其古桑树群系统获全球重要农业文化遗产认定，可围绕古桑树保护与农业文化策划内容。",
+    "match_reason": "可策划古桑树群、桑葚采摘、生态旅游等内容。",
+    "caution": "桑葚采摘季为5-6月；其他季节一般。",
+    "season": "春夏最佳（桑葚采摘季）",
+    "image": "https://bee-reg-ab.imagency.cn/mr/202611/05/6aec0dcee0eb9.jpeg",
+    "source": "https://www.fao.org/giahs/around-the-world/detail/china-mulberry-system/zh",
+    "verified_date": "2026-11-04",
+    "license": "图片来自视觉中国授权图库",
+    "note": "图片为夏津黄河故道古桑树；简介已查官方来源"
+  }
+]

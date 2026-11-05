@@ -1,0 +1,5 @@
+# 鲁趣寻踪 依赖说明
+# 本项目仅使用 Python 标准库（http.server / urllib / json 等），
+# 无需安装任何第三方库，Python 3.8+ 即可运行。
+# 如需导出/更新景点数据（scripts/export_data.py），需要 pandas + openpyxl：
+#   pip install pandas openpyxl

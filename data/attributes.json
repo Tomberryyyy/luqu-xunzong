@@ -1,0 +1,1474 @@
+{
+  "SD001": {
+    "stamina": {
+      "value": "高",
+      "evidence": "标签含「徒步登山」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD002": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD003": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD004": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD005": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [
+        "研学",
+        "党建"
+      ],
+      "evidence": "标签含「红色教育」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    }
+  },
+  "SD006": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD007": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD008": {
+    "stamina": {
+      "value": "低",
+      "evidence": "标签含「慢节奏」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "pace": {
+      "value": "轻松",
+      "evidence": "标签含「慢节奏」；仅表示可按慢节奏游览，不代表人少或低体力",
+      "known": true
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD009": {
+    "stamina": {
+      "value": "低",
+      "evidence": "标签含「慢节奏漫步、慢节奏」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "pace": {
+      "value": "轻松",
+      "evidence": "标签含「慢节奏漫步」；仅表示可按慢节奏游览，不代表人少或低体力",
+      "known": true
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD010": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD011": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD012": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [
+        "研学"
+      ],
+      "evidence": "标签含「文化研学」",
+      "known": true,
+      "soft": false
+    }
+  },
+  "SD013": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "紧凑",
+      "evidence": "限制提醒含「凌晨出发」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD014": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD015": {
+    "stamina": {
+      "value": "中",
+      "evidence": "标签含「暗河漂流」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD016": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD017": {
+    "stamina": {
+      "value": "低",
+      "evidence": "标签含「草坪露营」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [
+        "情侣",
+        "约会"
+      ],
+      "evidence": "标签含「浪漫治愈」（软性推断，待核验）",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    }
+  },
+  "SD018": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD019": {
+    "stamina": {
+      "value": "中",
+      "evidence": "标签含「环岛骑行」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD020": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD021": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD022": {
+    "stamina": {
+      "value": "低",
+      "evidence": "标签含「海景度假」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "pace": {
+      "value": "轻松",
+      "evidence": "标签含「海景度假」",
+      "known": false,
+      "soft": true,
+      "review_status": "待人工核验"
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD023": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD024": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD025": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD026": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD027": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "轻松",
+      "evidence": "标签含「慢生活」；仅表示可按慢节奏游览，不代表人少或低体力",
+      "known": true
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD028": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD029": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD030": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD031": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD032": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD033": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "轻松",
+      "evidence": "标签含「慢生活」；仅表示可按慢节奏游览，不代表人少或低体力",
+      "known": true
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD034": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD035": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD036": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD037": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD038": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD039": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD040": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD041": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD042": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD043": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD044": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD045": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD046": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD047": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD048": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD049": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD050": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD051": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD052": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD053": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD054": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD055": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD056": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD057": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD058": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD059": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD060": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD061": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD062": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD063": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD064": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD065": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD066": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD067": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [
+        "亲子"
+      ],
+      "evidence": "标签明确含「亲子」",
+      "known": true,
+      "soft": false
+    }
+  },
+  "SD068": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD069": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD070": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD071": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD072": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD073": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD074": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD075": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD076": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD077": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD078": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  },
+  "SD079": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [
+        "亲子"
+      ],
+      "evidence": "标签明确含「亲子」",
+      "known": true,
+      "soft": false
+    }
+  },
+  "SD080": {
+    "stamina": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "pace": {
+      "value": "未知",
+      "evidence": "",
+      "known": false
+    },
+    "companion": {
+      "value": [],
+      "evidence": "",
+      "known": false,
+      "soft": false
+    }
+  }
+}
