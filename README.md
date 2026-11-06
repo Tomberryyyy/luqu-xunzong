@@ -8,6 +8,22 @@
 
 项目目标是提高目的地匹配与文旅内容传播效率；当前未完成充分的效率对比测量，不宣称已验证的提升比例或精准率。
 
+<!-- demo-video:start -->
+## 演示视频
+
+第六版正式演示：**真人配音 · 2分42.5秒 · 1080p / 60帧**。
+
+[![鲁趣寻踪第六版演示视频封面，点击下载完整视频](docs/images/v6-demo-cover.jpg)](https://github.com/Tomberryyyy/luqu-xunzong/releases/download/v6.0.0/luqu-xunzong-v6-demo.mp4)
+
+**[下载完整演示视频（MP4，约25 MB）](https://github.com/Tomberryyyy/luqu-xunzong/releases/download/v6.0.0/luqu-xunzong-v6-demo.mp4)** · [下载中文字幕（SRT）](https://github.com/Tomberryyyy/luqu-xunzong/releases/download/v6.0.0/luqu-xunzong-v6-demo.zh-CN.srt) · [第六版发布页](https://github.com/Tomberryyyy/luqu-xunzong/releases/tag/v6.0.0)
+
+演示涵盖自然语言偏好描述、六维画像确认、景点匹配依据、图片与传播文案配套、人工修改导出，以及冲突提示与修正。模型标识 `gpt-6.1-sol` 已在画像章节标明。实机部分回放此前获得的真实模型结果，接口等待经过剪辑。
+
+点击封面或上方链接获取完整视频；程序运行步骤见下方“快速开始”。
+<!-- demo-video:end -->
+
+## 界面预览
+
 ![第六版界面预览](docs/images/v6-home.png)
 
 *界面截图为模拟模式的首页预览，没有发送真实模型请求，不是三组真实测试的结果证明。*
