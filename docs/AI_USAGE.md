@@ -1,5 +1,7 @@
 # AI应用与人机协作
 
+参赛用完整说明：[在线阅读](submission/AI_APPLICATION.md) · [PDF](submission/AI_APPLICATION.pdf) · [Word](submission/AI_APPLICATION.docx)。说明中列出当前接入模型标识及开发、运行中的AI分工。
+
 ## 项目定位
 
 鲁趣寻踪是一款文旅营销传播工具，针对山东景点信息过载，以偏好画像帮助游客发现目的地，并为文旅传播提供图片、标题与文案配套。效率改善与推荐精准度是验证目标，不是未经实测即可保证的结果。

@@ -8,6 +8,17 @@
 
 项目目标是提高目的地匹配与文旅内容传播效率；当前未完成充分的效率对比测量，不宣称已验证的提升比例或精准率。
 
+<!-- submission-docs:start -->
+## 初赛说明材料
+
+| 材料 | 阅读与下载 |
+| --- | --- |
+| 项目说明（两页） | [PDF](docs/submission/PROJECT_OVERVIEW.pdf) · [Word](docs/submission/PROJECT_OVERVIEW.docx) · [在线阅读](docs/submission/PROJECT_OVERVIEW.md) |
+| AI大模型应用说明 | [PDF](docs/submission/AI_APPLICATION.pdf) · [Word](docs/submission/AI_APPLICATION.docx) · [在线阅读](docs/submission/AI_APPLICATION.md) |
+
+两份说明对应第六版，介绍文旅传播场景、工作流程、技术实现及AI与人的分工。运行演示见下方视频，程序下载与配置步骤见“快速开始”。
+<!-- submission-docs:end -->
+
 <!-- demo-video:start -->
 ## 演示视频
 
