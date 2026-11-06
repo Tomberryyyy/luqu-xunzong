@@ -11,7 +11,7 @@
 <!-- demo-video:start -->
 ## 演示视频
 
-第六版正式演示：**真人配音 · 2分42.5秒 · 1080p / 60帧**。
+第六版正式演示：**2分42.5秒 · 1080p / 60帧**。
 
 [![鲁趣寻踪第六版演示视频封面，点击下载完整视频](docs/images/v6-demo-cover.jpg)](https://github.com/Tomberryyyy/luqu-xunzong/releases/download/v6.0.0/luqu-xunzong-v6-demo.mp4)
 
